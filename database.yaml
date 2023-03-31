@@ -1,0 +1,5 @@
+username: "Reoptima"
+password: "R5714"
+host: "localhost"
+port: 5432
+databaseName: "Reoptima"
